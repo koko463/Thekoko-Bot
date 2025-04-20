@@ -1,7 +1,7 @@
 <p align="center">  
   <a href="https://youtu.be/WcA7GZuaN0A">
-    <img alt="Guru" height="300" src="https://telegra.ph/file/97467fa11f63cae0d3be8.jpg">
-    <h1 align="center">VENOM-BOT 1.O</h1>
+    <img alt="Guru" height="300" src="https://telegra.ph/file/IMG-20250516-WA0132">
+    <h1 align="center">koko-BOT 1.O</h1>
   </a>
 </p>
 <p align="center">
